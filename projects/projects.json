@@ -1609,6 +1609,20 @@
         "online radio",
         "internet radio"
       ]
+    },
+    {
+      "name": "monkkee",
+      "thumb": "monkkee/thumb.png",
+      "desc": "The safest place for your thoughts: Secure and private journaling in the cloud. Create your own personal diary - safely backed up online, accessible from anywhere.",
+      "url": "http://www.monkkee.com",
+      "submitter": "bjoerne2",
+      "submissionDate": "2013-09-16",
+      "tags": [
+        "Production",
+        "Diary", "Journal",
+        "Encryption", "Decryption", "Web Workers", "WYSIWYG",
+        "jQuery"
+      ]
     }
   ]
 }
